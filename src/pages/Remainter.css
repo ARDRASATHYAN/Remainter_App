@@ -1,0 +1,90 @@
+.box-container {
+    margin:  auto;
+    /* box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2); */
+    max-width: 800px;
+    /* margin-top: 30px; */
+    padding: 15px 5px 5px 5px;
+    border-radius: 5px;
+    border: 15px solid rgb(213, 221, 213);
+    border-style: double;
+    padding: 50px;
+    background-color: rgb(212, 217, 223);
+    opacity: 0.7;
+    /* width: 70%;
+   
+    
+    position:absolute; */
+}
+
+.containar {
+    background-image: url('road.jpg');
+    background-size: cover;
+    filter: contrast(1.2);
+    min-height: 100vh;
+}
+
+@media (max-width: 768px) {
+    .containar {
+        background-size: contain;
+    }
+}
+
+h1 {
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.input-container {
+    display: flex;
+    gap: 5px;
+    margin-bottom: 30px;
+}
+
+input {
+    padding: 10px;
+    font-size: 18px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.add-btn {
+    padding: 10px;
+    font-size: 18px;
+    color: #fff;
+    background-color: blue;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.datastyle {
+    list-style: none;
+    padding: 5px;
+}
+
+.datastyle li {
+    display: flex;
+    align-items: center;
+    background-color: #f7f7f7;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    justify-content: space-between;
+}
+
+.delete-btn {
+    padding: 5px 10px;
+    font-size: 16px;
+    color: #fff;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+
+i {
+    color: red;
+}
