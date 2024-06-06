@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Remainter_App/static/css/main.6c37ce2c.css",
+    "main.js": "/Remainter_App/static/js/main.7498fcf1.js",
+    "static/js/453.65986eb4.chunk.js": "/Remainter_App/static/js/453.65986eb4.chunk.js",
+    "static/media/road.jpg": "/Remainter_App/static/media/road.73faa5d6847e2c3c10ac.jpg",
+    "static/media/logo.svg": "/Remainter_App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Remainter_App/index.html",
+    "main.6c37ce2c.css.map": "/Remainter_App/static/css/main.6c37ce2c.css.map",
+    "main.7498fcf1.js.map": "/Remainter_App/static/js/main.7498fcf1.js.map",
+    "453.65986eb4.chunk.js.map": "/Remainter_App/static/js/453.65986eb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c37ce2c.css",
+    "static/js/main.7498fcf1.js"
+  ]
+}
